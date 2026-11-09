@@ -1,0 +1,6 @@
+$ sudo virsh list --all
+ Id   Name          State
+------------------------------
+ -    ubuntu-vm01   shut off
+ -    ubuntu-vm02   shut off
+

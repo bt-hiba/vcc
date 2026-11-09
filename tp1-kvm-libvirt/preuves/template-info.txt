@@ -1,0 +1,11 @@
+$ sudo qemu-img info /mnt/kvm-storage-60/ubuntu-vm01.qcow2
+image: /mnt/kvm-storage-60/ubuntu-vm01.qcow2
+file format: qcow2
+virtual size: 15 GiB (16106127360 bytes)
+disk size: 10.2 GiB
+cluster_size: 65536
+Format specific information:
+    compat: 1.1
+    lazy refcounts: true
+    refcount bits: 16
+    corrupt: false

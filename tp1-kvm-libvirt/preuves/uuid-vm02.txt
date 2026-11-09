@@ -1,0 +1,3 @@
+$ sudo virsh domuuid ubuntu-vm02
+d056bdd7-2ade-43a1-a8ee-039da72b4b6e
+

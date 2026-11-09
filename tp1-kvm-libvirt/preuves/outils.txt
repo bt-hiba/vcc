@@ -1,0 +1,19 @@
+$ lsb_release -a
+No LSB modules are available.
+Distributor ID:	Ubuntu
+Description:	Ubuntu 20.04 LTS
+Release:	20.04
+Codename:	focal
+
+$ uname -r
+5.4.0-216-generic
+
+$ qemu-system-x86_64 --version
+QEMU emulator version 4.2.1 (Debian 1:4.2-3ubuntu6.30)
+Copyright (c) 2003-2019 Fabrice Bellard and the QEMU Project developers
+
+$ virsh --version
+6.0.0
+
+$ virt-install --version
+2.2.1
