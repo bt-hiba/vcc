@@ -1,0 +1,8 @@
+*.qcow2
+*.img
+*.iso
+*.raw
+id_*
+*.pem
+tp1_kvm
+github
