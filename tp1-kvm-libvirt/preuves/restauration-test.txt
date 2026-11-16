@@ -1,0 +1,23 @@
+TEST DE RESTAURATION — PARTIE D, EXERCICE 8
+
+VM restaurée : ubuntu-restore-v2
+Adresse IP obtenue : 192.168.122.58
+Adresse MAC : 52:54:00:bb:2a:63
+État après création : running
+État final : shut off
+
+Vérifications effectuées dans la VM restaurée :
+- Distribution : Ubuntu 20.04.6 LTS (Focal Fossa)
+- Architecture : x86_64
+- Fichier témoin : /opt/tp1/version.txt
+- Contenu : Version applicative TP1 : v1
+- Hostname : srv-source
+- Machine ID : b06dd0e18d8347e1b03883d632747272
+
+Résultat :
+La VM restaurée démarre correctement.
+Le système, le fichier témoin et l'identité de la machine
+ont été conservés depuis l'image capturée.
+
+La VM restaurée a été arrêtée proprement après les tests.
+Capture non généralisée.

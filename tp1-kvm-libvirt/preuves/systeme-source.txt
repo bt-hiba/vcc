@@ -1,0 +1,11 @@
+Distribution : Ubuntu 20.04.6 LTS (Focal Fossa)
+Architecture : x86_64
+Hostname : srv-source
+Machine ID : b06dd0e18d8347e1b03883d632747272
+Fichier témoin : /opt/tp1/version.txt
+Version témoin : Version applicative TP1 : v1
+
+SSH : active
+openssh-server : 1:8.2p1-4ubuntu0.13
+qemu-guest-agent : 1:4.2-3ubuntu6.30
+cloud-init : 24.4.1-0ubuntu0~20.04.3
